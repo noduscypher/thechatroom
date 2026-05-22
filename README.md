@@ -1,5 +1,14 @@
 # 💬 **The Chat Room! v2.00** 💬
 
+> Fork of [fr33n0w/thechatroom](https://github.com/fr33n0w/thechatroom) —
+> the original IRC-style mesh chatroom engine for NomadNet.
+> This fork adds rawmesh node adaptations and integration hooks for
+> [tessera](https://github.com/noduscypher/tessera).
+>
+> Signal forward. Attribution upstream.
+
+---
+
 An IRC-style chat room built for **Reticulum NomadNet**, optimized for **MeshChat v2.1+**. Made By F.
 
 ---
