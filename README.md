@@ -198,7 +198,7 @@ nomadnet
 
 Note: TheChatRoom has been created and run on root user machines, probably you need to be root to run it, let me know if you encounter some difficulties!
 
-LXMF Contact: 0d051f3b6f844380c3e0c5d14e37fac8
+LXMF Contact: abcdef0123456789abcdef0123456789
 ---
 
 ---
